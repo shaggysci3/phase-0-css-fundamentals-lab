@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+
+input[type="text"] {
+  width: 200px;
+}
+#featured-property{
+  font-size: small;
+  text-align: center;
+  
+  
+  
+}
+a{
+  background-color: rgb(201, 201, 201);
+}
+header nav{
+  text-align: center;
+}
+h3,h2,h1,p{
+  text-align: center;
+  
+}
